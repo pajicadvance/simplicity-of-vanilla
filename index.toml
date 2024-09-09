@@ -14,11 +14,11 @@ hash = "f90bfd99629374fdeaa63aef21917d6907e0cc86cac6e886ccea30966c2bd69b"
 
 [[files]]
 file = "config/modpack-update-checker-info.txt"
-hash = "602fae580f5863abfb31bf356decfdc73bf1224a62aacf6b4829ffa2dbe58390"
+hash = "a9e0ba49b003e1cc40b7f9a9b55f0c87992858aeb7bf4136da63a3c2dddb98a0"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "e14923ab30973d0efe26c3ef4631f0784d7e4970bc1b693f390025f616976df8"
+hash = "fe290f534455a4e8c6b374e1ae0826429b2d294dd891584ad0aa2514b5e10bed"
 
 [[files]]
 file = "config/yosbr/config/badoptimizations.txt"
@@ -182,7 +182,7 @@ hash = "fa15cda14182d5386dc9af13ec086fba586ebd00c5e233a7fb74c8dc03a0c037"
 
 [[files]]
 file = "meta.json"
-hash = "6494d3efdd2939e48f86490968b109295da7a6c3935e797200c901799c010d99"
+hash = "86c3b9dacd387a7a9cfe6012c80f0c78f11cafcdb22d58345c64fd0ea38d6437"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -961,3 +961,7 @@ metafile = true
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "8a72dc1bff556553bc502e93fd133b2cfc736688c95e997d501803831f94ba22"
 metafile = true
+
+[[files]]
+file = "versions/1.0.0/changelog.txt"
+hash = "aae407e8ce105c5b51a1170c9ad4476616f635c1e7978b9d56e83947b50f58f2"
