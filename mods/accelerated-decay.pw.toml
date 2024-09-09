@@ -1,0 +1,13 @@
+name = "Accelerated Decay"
+filename = "accelerated-decay-fabric-21.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "70e6bc34b71c288421469a15bf69bb5d26063927"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5433035
+project-id = 699872

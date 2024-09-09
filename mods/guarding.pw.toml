@@ -1,0 +1,13 @@
+name = "Guarding"
+filename = "guarding-1.21.1-2.7.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0d6bd573d3fab15dd1a5fa59207d03b5c12c31aa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5636610
+project-id = 607221

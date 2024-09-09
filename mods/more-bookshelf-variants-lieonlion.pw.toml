@@ -1,0 +1,13 @@
+name = "More Bookshelves Variants"
+filename = "MoreBookshelfVariants-1.0.4+1.21-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d41a3b1c812334941aa8fcc075a967438792aa9b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5514564
+project-id = 997888

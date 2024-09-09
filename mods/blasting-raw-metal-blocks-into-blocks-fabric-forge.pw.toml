@@ -1,0 +1,13 @@
+name = "Blasting Raw Metal Blocks into Blocks [Fabric/Forge/NeoForge]"
+filename = "blastingraw-1.21.1-2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a7edae4089f12850c260e1fd2639db203a5482e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5609743
+project-id = 886474

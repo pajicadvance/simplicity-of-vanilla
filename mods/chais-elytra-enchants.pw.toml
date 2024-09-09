@@ -1,0 +1,13 @@
+name = "Chai's Elytra Enchants"
+filename = "elytra_enchants-1.0.3+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kjeo1Vlk/versions/DWO7HtXX/elytra_enchants-1.0.3%2B1.21.jar"
+hash-format = "sha512"
+hash = "40b62a68785c49598e1ff4a4ebcb16925d26e7ec632ef0c1cccf763d249c726f9799ef0352183393d0a3a38547c1517e62d303ffa158dcaaf221b62746c81ebf"
+
+[update]
+[update.modrinth]
+mod-id = "kjeo1Vlk"
+version = "DWO7HtXX"

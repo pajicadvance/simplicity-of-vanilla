@@ -1,0 +1,16 @@
+name = "Simplicity of Vanilla"
+author = "pajic"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "97e000c3f71ba561c90e214f9af1e356e916b15f1af24461738c503e5d40ed6f"
+
+[versions]
+fabric = "0.16.5"
+minecraft = "1.21.1"
+
+[options]
+acceptable-game-versions = ["1.21"]

@@ -1,0 +1,13 @@
+name = "Forgiving Void (Fabric Edition)"
+filename = "forgivingvoid-fabric-1.21.1-21.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42f9a8a9a663f85834f5b0eeabb996ebdecc4bcb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5623774
+project-id = 547687

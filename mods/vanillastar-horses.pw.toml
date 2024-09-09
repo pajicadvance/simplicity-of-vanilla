@@ -1,0 +1,13 @@
+name = "Vanilla* Horses"
+filename = "vanillastar-horses-1.0.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HC0n5kCz/versions/EJFn4t4p/vanillastar-horses-1.0.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "1b37626913be0aabbc88c986bc0017b007dedc0bf93bcbeca3d2aa5dd6b66b8839dfde0c5ba2ac970c6d2e7c947049e5dd543541e65ce02ed6deadde7539677d"
+
+[update]
+[update.modrinth]
+mod-id = "HC0n5kCz"
+version = "EJFn4t4p"

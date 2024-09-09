@@ -1,0 +1,13 @@
+name = "Your Reputation (Jade)"
+filename = "your-reputation-0.2.8+jade.1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "89f6ceca8f89bbda33bf17169f617eef9c6dac87"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5686553
+project-id = 1038051

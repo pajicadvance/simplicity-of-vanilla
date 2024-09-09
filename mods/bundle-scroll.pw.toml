@@ -1,0 +1,13 @@
+name = "Bundle Scroll"
+filename = "bundlescroll-1.1+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "08648a6bff0b2d78228aa27cdda3818178d3c91e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5424188
+project-id = 1004377

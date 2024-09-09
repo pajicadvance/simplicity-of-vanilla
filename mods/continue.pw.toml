@@ -1,0 +1,13 @@
+name = "[UPDATED] Continue Button"
+filename = "continuebutton-1.2.5.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "18e6dfdb268958cc97a7d3bf37ff445792b6ace9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5647817
+project-id = 869104

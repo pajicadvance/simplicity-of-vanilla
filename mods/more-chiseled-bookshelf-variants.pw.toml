@@ -1,0 +1,13 @@
+name = "More Chiseled Bookshelf Variants"
+filename = "MoreChiseledBookshelfVariants-1.6.1+1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92c8cab824a3a45ca5633f8e336a7b2b31cc722a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5681810
+project-id = 1058433

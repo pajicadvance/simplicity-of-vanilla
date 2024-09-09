@@ -1,0 +1,13 @@
+name = "Friends&Foes - Beekeeper Hut (Fabric/Quilt)"
+filename = "beekeeperhut-fabric-mc1.21-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe2c16002e0b70a4a07c3c0023c0b1c1560de853"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5523361
+project-id = 711899

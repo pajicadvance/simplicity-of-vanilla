@@ -1,0 +1,13 @@
+name = "More Chests Variants (MCV)"
+filename = "MoreChestVariants-1.5.6+1.21-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cd641e5a5c28fa37556d5476a1ef7e15c4ea5bf9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5476664
+project-id = 858032

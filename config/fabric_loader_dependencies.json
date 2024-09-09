@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"overrides": {
+		"puzzleslib": {
+			"-depends": {
+				"minecraft": ""
+			}
+		},
+		"bettertridents": {
+			"-depends": {
+				"minecraft": ""
+			}
+		},
+		"lolmcbv": {
+			"-depends": {
+				"minecraft": ""
+			}
+		}
+	}
+}

@@ -1,0 +1,156 @@
+{
+	"enchantmentUpgrading": {
+		"enableEnchantmentUpgrading": true,
+		"upgradingHasExperienceCost": true,
+		"upgradingBaseExperienceCost": 5,
+		"ignoreTooExpensive": true,
+		"allowUpgradingSingleEnchantedBooksOnly": false,
+		"templateLootLocations": [
+			"minecraft:chests/end_city_treasure;10;1"
+		]
+	},
+	"whetstone": {
+		"enableWhetstone": true
+	},
+	"enderBackpack": {
+		"enableEnderBackpack": true
+	},
+	"teleportationPotions": {
+		"enablePotionOfWormhole": true,
+		"enablePotionOfTeleportation": true,
+		"teleportRadius": 10000,
+		"teleportMaxHeight": 96
+	},
+	"infoOverlays": {
+		"enableCompassOverlay": true,
+		"enableClockOverlay": true,
+		"textBackground": true,
+		"textBackgroundOpacity": 0.3017857074737549,
+		"textShadow": false,
+		"coloredSeason": false,
+		"coloredWeather": false
+	},
+	"phantomSpawningRework": {
+		"enablePhantomSpawningRework": true,
+		"phantomSpawnStartHeight": 128,
+		"phantomSpawnFrequency": "30+rand(30)",
+		"repelPhantomsWithDefinedItems": true,
+		"phantomRepellentItems": [
+			"minecraft:phantom_membrane"
+		]
+	},
+	"deathImprovements": {
+		"noItemSplatterOnDeath": true,
+		"noDeathItemDespawn": true,
+		"playerDropMoreXpOnDeath": true,
+		"droppedExperiencePercent": 80
+	},
+	"anvilImprovements": {
+		"modifyAnvilRepairUnitCosts": true,
+		"armor": {
+			"headArmorUnits": 5,
+			"chestArmorUnits": 8,
+			"legArmorUnits": 7,
+			"footArmorUnits": 4
+		},
+		"tools": {
+			"pickaxeUnits": 3,
+			"axeUnits": 3,
+			"hoeUnits": 2,
+			"swordUnits": 2,
+			"shovelUnits": 1
+		},
+		"uniqueItems": {
+			"shieldUnits": 6,
+			"elytraUnits": 2,
+			"maceUnits": 2,
+			"whetstoneUnits": 6
+		},
+		"modTags": [
+			"farmersdelight:tools/knives;1"
+		],
+		"modItems": [
+			"minecraft:trident;3"
+		],
+		"modifyDegradationChance": true,
+		"degradationChance": 6.0,
+		"freeUnenchantedRepairs": true,
+		"freeRenames": true,
+		"noTooExpensive": true,
+		"noPriorWorkCost": false
+	},
+	"bottleOEnchantingImprovements": {
+		"enableBottleOEnchantingImprovements": true,
+		"modifyExperienceReward": true,
+		"experienceReward": "30+rand(10)+rand(10)",
+		"renameToExperienceBottle": true,
+		"additionalChestLoot": true,
+		"bottleLootLocations": [
+			"minecraft:chests/abandoned_mineshaft;100;1",
+			"minecraft:chests/ancient_city;100;1",
+			"minecraft:chests/end_city_treasure;100;1",
+			"minecraft:chests/pillager_outpost;100;2",
+			"minecraft:chests/simple_dungeon;100;1",
+			"minecraft:chests/stronghold_corridor;100;1",
+			"minecraft:chests/stronghold_crossing;100;1",
+			"minecraft:chests/stronghold_library;100;2",
+			"minecraft:chests/woodland_mansion;100;3"
+		]
+	},
+	"enchantedBookLootImprovements": {
+		"enableEnchantedBookLootImprovements": true,
+		"additionalChestLoot": true,
+		"bookLootLocations": [
+			"minecraft:chests/abandoned_mineshaft;20;1",
+			"minecraft:chests/ancient_city;20;1",
+			"minecraft:chests/jungle_temple;20;1",
+			"minecraft:chests/pillager_outpost;20;1",
+			"minecraft:chests/simple_dungeon;20;1",
+			"minecraft:chests/stronghold_corridor;20;1",
+			"minecraft:chests/stronghold_crossing;20;1",
+			"minecraft:chests/stronghold_library;20;1",
+			"minecraft:chests/underwater_ruin_big;20;1",
+			"minecraft:chests/woodland_mansion;20;1"
+		],
+		"structureSpecificLoot": true,
+		"enchantmentStructureMap": [
+			"elytra_enchants:launch;3,elytra_enchants:skipping;1!minecraft:chests/end_city_treasure;10"
+		],
+		"enchantmentLevelWeights": false,
+		"level1Weight": 16,
+		"level2Weight": 8,
+		"level3Weight": 4,
+		"level4Weight": 2,
+		"level5Weight": 1
+	},
+	"musicDiscLoot": {
+		"enableMusicDiscLoot": true,
+		"musicDiscLootLocations": [
+			"minecraft:chests/abandoned_mineshaft;10",
+			"minecraft:chests/end_city_treasure;10",
+			"minecraft:chests/igloo_chest;10",
+			"minecraft:chests/jungle_temple;10",
+			"minecraft:chests/pillager_outpost;10",
+			"minecraft:chests/simple_dungeon;10",
+			"minecraft:chests/stronghold_corridor;10",
+			"minecraft:chests/stronghold_crossing;10",
+			"minecraft:chests/stronghold_library;10",
+			"minecraft:chests/woodland_mansion;10",
+			"minecraft:gameplay/cat_morning_gift;10"
+		],
+		"remove13AndCatLootEntries": true
+	},
+	"craftTippedArrowsWithRegularPotions": true,
+	"glowstoneDustRecipe": true,
+	"cryingObsidianRecipe": true,
+	"infinityMendingCompatible": true,
+	"soulSpeedNoDamage": true,
+	"playBowDrawingSounds": true,
+	"creeperExplosionDropsAll": true,
+	"disableShulkerDuplication": false,
+	"disablePillagerPatrols": false,
+	"disableNightVision": false,
+	"riptideWorksOnlyInWater": false,
+	"hideDebugInfoInSurvival": true,
+	"disableDoubleTapSprint": true
+}

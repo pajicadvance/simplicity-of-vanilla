@@ -1,0 +1,13 @@
+name = "Bale of Sugar Cane"
+filename = "baleofsugarcane-v1.0.1-fabric-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e3e6733cfa712702842216ae74952bb640ef21c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5477707
+project-id = 640275

@@ -1,0 +1,13 @@
+name = "EnchantmentDisabler"
+filename = "enchantmentdisabler-2.4.0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "64e9220442ca373945c3622e31d7bef0d451971b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5700832
+project-id = 912326

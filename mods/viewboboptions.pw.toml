@@ -1,0 +1,13 @@
+name = "View Bobbing Options"
+filename = "viewboboptions-0.3.1+1.21.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "74d857c9be94001d8063e4d9c0edda3fbb59b022"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5704490
+project-id = 901484

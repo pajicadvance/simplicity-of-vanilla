@@ -1,0 +1,13 @@
+name = "Till It Breaks Updated"
+filename = "tillitbreaks-0.6.1+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GG12dlQh/versions/pp8PyGmH/tillitbreaks-0.6.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "b42eb5c70413a85f9007fd6cd809937672f46cd7e974c923a709af9abe08400718f76a6f16018d5099dd8e37b4a431181c6b1a666dccb795b8318749cc1d9c61"
+
+[update]
+[update.modrinth]
+mod-id = "GG12dlQh"
+version = "pp8PyGmH"

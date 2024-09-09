@@ -1,0 +1,13 @@
+name = "OverpoweredMending"
+filename = "OverpoweredMending-1.21.1-1.21.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f31c95c74516ce37619c9492a3bc8baf2eba52a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5647448
+project-id = 344973

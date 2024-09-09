@@ -1,0 +1,13 @@
+name = "ElytraSwimFix"
+filename = "ElytraSwimFix-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9On2CvRd/versions/Sv49HKiI/ElytraSwimFix-1.1.0.jar"
+hash-format = "sha512"
+hash = "d26b8578a1a18ad0f24ca0e24bb2190c43c8f843abfd913239bf95a825ca5b4653c1a6eae69fb0bfae59602dd55bcbd4c607e7383ed052b5ee400b998151f17e"
+
+[update]
+[update.modrinth]
+mod-id = "9On2CvRd"
+version = "Sv49HKiI"

@@ -1,0 +1,13 @@
+name = "Notes"
+filename = "Notes-1.21.1-2.1.1-fabric.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "fdd11a2bc9055425b40dbc17ce1e9b75aca537c4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5696109
+project-id = 256087

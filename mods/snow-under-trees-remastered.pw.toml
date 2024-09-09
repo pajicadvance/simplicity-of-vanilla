@@ -1,0 +1,13 @@
+name = "Snow Under Trees (Fabric)​"
+filename = "SnowUnderTrees-2.5.3+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e418a3b75db8e7facb14556ca19361a28107e6fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5656587
+project-id = 693715
