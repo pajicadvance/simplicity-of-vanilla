@@ -2,6 +2,15 @@
     "schemaVersion": 1,
     "hotfixesFormat": null,
     "versions": [
-        
+        {
+            "id": "1.0.0",
+            "releasedAt": 1725852263,
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/modpack/simplicity-of-vanilla",
+                    "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/simplicity-of-vanilla"
+                }
+            }
+        }
     ]
 }
