@@ -1,13 +1,13 @@
-name = "Mod Glue"
+name = "Glue Patcher"
 filename = "ModGlue-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/r4XcUYt6/versions/URM6i4M7/ModGlue-1.1.0.jar"
-hash-format = "sha512"
-hash = "3d3459348f34c48e4a35ad091decb62d4fbf77333a9d4e3a5621d2738ec44b23097b56ed899b1209006f296c1a9196dd99c859f915fc7a7a2988ede026a695b5"
+hash-format = "sha1"
+hash = "0fc01e87460c9b2325c076d0b795bdda5b514c43"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "r4XcUYt6"
-version = "URM6i4M7"
+[update.curseforge]
+file-id = 5705311
+project-id = 1099384

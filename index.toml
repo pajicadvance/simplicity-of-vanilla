@@ -641,7 +641,7 @@ metafile = true
 
 [[files]]
 file = "mods/mod-glue.pw.toml"
-hash = "de1af001011cd5f1a74baf65a938cf6da8ac001a206ec723bd457da2fd85ff71"
+hash = "1a38c8176ef749ea2562c650a7d570372a5136f7a78ab6db2c7b9c8b696ff8ff"
 metafile = true
 
 [[files]]
@@ -901,7 +901,7 @@ metafile = true
 
 [[files]]
 file = "mods/till-it-breaks-updated.pw.toml"
-hash = "91ab3b0ea09230e51ad8b48944711d8867e10b012530a68d65c5e5086690991d"
+hash = "f9d81f6f6e629d23b2c99d9ecf66e22970e3730dcaa1c4641730aa3155cec142"
 metafile = true
 
 [[files]]
