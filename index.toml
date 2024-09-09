@@ -350,6 +350,11 @@ hash = "26c8b386c38114f3edd81eb8a9b6360a92b2f4b0d629ec4ba3378e01984a3cd2"
 metafile = true
 
 [[files]]
+file = "mods/concentration.pw.toml"
+hash = "cebce6bf952c0b982a21d50639b914d8a71e486eaefe255e9d0e014dbfd8a719"
+metafile = true
+
+[[files]]
 file = "mods/continue.pw.toml"
 hash = "fb4c67a1ad2b1145f961f3c2ea3819a9b743370c89920502637f8348e6c06589"
 metafile = true
@@ -362,11 +367,6 @@ metafile = true
 [[files]]
 file = "mods/cropped.pw.toml"
 hash = "e12cf0bd37f20f341f315ae264bd3a95f86099fbd3710301ebacaa29ab5a1698"
-metafile = true
-
-[[files]]
-file = "mods/cubes-without-borders.pw.toml"
-hash = "ba2fc8f0cbbd5557ff3cc55a15f2ac8f4559ab1b5a3d15fbad09160ea6fdf9ea"
 metafile = true
 
 [[files]]
