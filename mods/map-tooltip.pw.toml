@@ -3,11 +3,11 @@ filename = "maptooltip-fabric-1.21-rc1-4.0.0.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "119f7e8b499dfff8195eff91324211476bbecb1d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/GNtptqqU/versions/ryiMNdRa/maptooltip-fabric-1.21-rc1-4.0.0.jar"
+hash-format = "sha512"
+hash = "79a7f8f8fd9bb80385c4400b0065a3f43d2f5f6801eba59442fdbb69074d4be7ce7d5fc8c46d459b1c790378f69001359f4f7c3dd33003d884bcfdf2f668cac2"
 
 [update]
-[update.curseforge]
-file-id = 5423096
-project-id = 384852
+[update.modrinth]
+mod-id = "GNtptqqU"
+version = "ryiMNdRa"

@@ -3,11 +3,11 @@ filename = "Fog-fabric-1.4.1-1.21.1.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "a65841b0e8f006a0dbd312ec60811e69076c3673"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/WuGVWUF2/versions/mmw9NMuW/Fog-fabric-1.4.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "7c18d9a03265fe6fe18f9b18681ba3a873b2292db0ac655fa840da45f11d452df054f080b1f1cc37dbefaa9e8ef05ecc301bfd82b8ed18c5c3ce2196e3533891"
 
 [update]
-[update.curseforge]
-file-id = 5710592
-project-id = 815438
+[update.modrinth]
+mod-id = "WuGVWUF2"
+version = "mmw9NMuW"

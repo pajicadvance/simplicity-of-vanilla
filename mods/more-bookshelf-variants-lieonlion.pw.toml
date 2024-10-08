@@ -3,11 +3,11 @@ filename = "MoreBookshelfVariants-1.0.4+1.21-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d41a3b1c812334941aa8fcc075a967438792aa9b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/twjW6Ggd/versions/hgLqbkLp/MoreBookshelfVariants-1.0.4%2B1.21-Fabric.jar"
+hash-format = "sha512"
+hash = "705e33c52a45b1af677e06bc1936d9b2947f0691d15c9ab726555d37cefe1b5e23a74d7c11a92cd38b9f2bef817dd5618344eb0fb9ec185c45390654404a3155"
 
 [update]
-[update.curseforge]
-file-id = 5514564
-project-id = 997888
+[update.modrinth]
+mod-id = "twjW6Ggd"
+version = "hgLqbkLp"

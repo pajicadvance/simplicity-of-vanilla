@@ -1,13 +1,13 @@
 name = "Bundle Scroll"
 filename = "bundlescroll-1.1+1.21.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "08648a6bff0b2d78228aa27cdda3818178d3c91e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/fJKsphvU/versions/kPuGLH88/bundlescroll-1.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "5ab49752f2546fdc7133dc445dd5a19a6beee4b7ac2ac6ef5bd84b86f1817535c9e854c989422ac2d0bd22931694c83b4ee50ea9dba4190a3e88ec09088e93ea"
 
 [update]
-[update.curseforge]
-file-id = 5424188
-project-id = 1004377
+[update.modrinth]
+mod-id = "fJKsphvU"
+version = "kPuGLH88"

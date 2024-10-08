@@ -3,11 +3,11 @@ filename = "Jade-1.21.1-Fabric-15.5.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "79225dc0b6bdb45d28c4ef8bf22d8c51195700d9"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/ycbZawVK/Jade-1.21.1-Fabric-15.5.1.jar"
+hash-format = "sha512"
+hash = "8cfd102e38b974ff6a07996337d972c52e849a276264896a19f8ba56f3e1b0227d40f02104f83e34cc60e5fb5dbcfe118c27697afb010cc7305c9f076df09518"
 
 [update]
-[update.curseforge]
-file-id = 5782863
-project-id = 324717
+[update.modrinth]
+mod-id = "nvQzSEkH"
+version = "ycbZawVK"

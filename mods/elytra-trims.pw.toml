@@ -3,11 +3,11 @@ filename = "elytratrims-fabric-3.5.4+1.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "105bdaf490707161992cd33579495c7ef026a248"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/XpzGz7KD/versions/hO3heIPl/elytratrims-fabric-3.5.4%2B1.21.jar"
+hash-format = "sha512"
+hash = "f4e9db305ac51299b2aeede5ca250e6d5167458f7e5f499688d6f5629fdb8aee06f1045de4c7acb2bf9bb05ed692a4c07dfce42a4230b34d79bb19433344362b"
 
 [update]
-[update.curseforge]
-file-id = 5795328
-project-id = 876199
+[update.modrinth]
+mod-id = "XpzGz7KD"
+version = "hO3heIPl"

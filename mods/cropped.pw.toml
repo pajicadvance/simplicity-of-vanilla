@@ -3,11 +3,11 @@ filename = "Cropped-1.1.0+1.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b9a546b20e5cdc0f5a982ce2d5c079e47915be91"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/DvdWYd72/versions/EudpxeIi/Cropped-1.1.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "a81a8fa569e6d28c5a9a974727acdf5234d40e25d059ff2ad5bf1aeafad6508d9092083dcdeafa3d27afdce264023c05b1543835c4d1be9ad615149f64bb9157"
 
 [update]
-[update.curseforge]
-file-id = 5587098
-project-id = 846009
+[update.modrinth]
+mod-id = "DvdWYd72"
+version = "EudpxeIi"

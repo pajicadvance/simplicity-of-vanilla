@@ -3,11 +3,11 @@ filename = "iChunUtil-1.21-Fabric-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "48091d7324ef3ce30dc6802299c22a6b3869bff2"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/W6ROj0Hl/versions/2VeHCZxH/iChunUtil-1.21-Fabric-1.0.0.jar"
+hash-format = "sha512"
+hash = "8106107945c74b724cb263cd02efa57ce579057cce967f4b6a541c03035e73d23440a94276be9b142963cbfc3953748ac0e07ff1a96058eebfcc57c9e27efcc2"
 
 [update]
-[update.curseforge]
-file-id = 5478456
-project-id = 229060
+[update.modrinth]
+mod-id = "W6ROj0Hl"
+version = "2VeHCZxH"

@@ -3,11 +3,11 @@ filename = "cherry-on-top-1.0.2+1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "afe1eda94d23d9e7ddc1b1e6f53c078d23eb1421"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/GaqlHMUL/versions/o3ZLNb05/cherry-on-top-1.0.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "eb3045e6a543735fb478866cbd3493df47bdb8b5db4a36e94837eed4551a33e0846a26f901ea086c742211fa3b56a1b8e2114c8ca1ced1764061402fa9c1ffcb"
 
 [update]
-[update.curseforge]
-file-id = 5759383
-project-id = 1077812
+[update.modrinth]
+mod-id = "GaqlHMUL"
+version = "o3ZLNb05"

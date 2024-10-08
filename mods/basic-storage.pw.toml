@@ -3,11 +3,11 @@ filename = "basicstorage-1.0.2+1.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2b3938610856f01e7d50428d991ae80bf8c2e559"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/NMOanmPo/versions/tm3GnE6x/basicstorage-1.0.2%2B1.21.jar"
+hash-format = "sha512"
+hash = "7b6eb43ae12286121380e4f60ee04a6bf625050f831ac103fdabef373d942849c2335288033803230c1e9ecddeb5eab4cb487c86afd5237b9de64f602c215566"
 
 [update]
-[update.curseforge]
-file-id = 5650314
-project-id = 1054506
+[update.modrinth]
+mod-id = "NMOanmPo"
+version = "tm3GnE6x"

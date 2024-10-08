@@ -3,11 +3,11 @@ filename = "grind-enchantments-3.2.2+1.21-rc1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "708c378b567f0004b8180712ce97c737c9d7b14f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/WC4UgDcZ/versions/yckYZpeJ/grind-enchantments-3.2.2%2B1.21-rc1.jar"
+hash-format = "sha512"
+hash = "a2fb26b75f5e94f0e066b1efc896e25000135940026d13628f6cbf5bfa764b8ee792428b94881d7202738ad0ab3a049588fda70d8cd664b0ca23f20b91a4a6b3"
 
 [update]
-[update.curseforge]
-file-id = 5423981
-project-id = 379680
+[update.modrinth]
+mod-id = "WC4UgDcZ"
+version = "yckYZpeJ"

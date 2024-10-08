@@ -1,13 +1,13 @@
-name = "[UPDATED] Continue Button"
+name = "Continue Button"
 filename = "continuebutton-1.2.5.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "18e6dfdb268958cc97a7d3bf37ff445792b6ace9"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/6DpItqEj/versions/E8YaH1Cs/continuebutton-1.2.5.jar"
+hash-format = "sha512"
+hash = "0a50dfa1c61a8cbda111d0b9670f6a8b8ca37a710a0ada470c2dd84af98bf7beac6a318bbc8cace4f21311f9dd1a8a59d2f01ce1bbff91bbd3437d2155244f44"
 
 [update]
-[update.curseforge]
-file-id = 5647817
-project-id = 869104
+[update.modrinth]
+mod-id = "6DpItqEj"
+version = "E8YaH1Cs"

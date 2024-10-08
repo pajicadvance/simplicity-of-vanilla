@@ -1,13 +1,13 @@
-name = "Tax Free Levels (Fabric/(Neo)Forge)"
+name = "Tax Free Levels"
 filename = "TaxFreeLevels-1.3.12-fabric-1.20.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1d8f477275f79d0354270734b856ca3271ac3df9"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/jCBrrLTs/versions/B0IoQ4DN/TaxFreeLevels-1.3.12-fabric-1.20.5.jar"
+hash-format = "sha512"
+hash = "4e37def99be3795b648b8629e3fc452c61269e4da3f533fa9d368e36c20819764c2faf9119127031d8b876b0d3a8bc7d47e2048746b30132a1ede4fcc02edb2b"
 
 [update]
-[update.curseforge]
-file-id = 5302154
-project-id = 462128
+[update.modrinth]
+mod-id = "jCBrrLTs"
+version = "B0IoQ4DN"

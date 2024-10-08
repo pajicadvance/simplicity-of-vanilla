@@ -3,11 +3,11 @@ filename = "fadeless-fabric-1.1.1.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "a26405e8ae394d43ffd2c7462fd8b108bf36e31a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ncKjyGm3/versions/m4Onx9Cy/fadeless-fabric-1.1.1.jar"
+hash-format = "sha512"
+hash = "3696089190c3ba64cb2f18f1517ffdfaf9c8ca37a637f2303ea3091a111aea7f6f2e952c3118034e7080dd305261584c6992280ffe774189aca80a2c33683fc1"
 
 [update]
-[update.curseforge]
-file-id = 5783583
-project-id = 861310
+[update.modrinth]
+mod-id = "ncKjyGm3"
+version = "m4Onx9Cy"

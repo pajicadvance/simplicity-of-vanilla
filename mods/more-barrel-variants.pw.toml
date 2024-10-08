@@ -3,11 +3,11 @@ filename = "MoreBarrelVariants-1.6.0+1.21-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7e7b9e9a4f28c4f3a954ea4f30fb94d9856ee8c0"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/g4AhyGgi/versions/xMWTWdql/MoreBarrelVariants-1.6.0%2B1.21-Fabric.jar"
+hash-format = "sha512"
+hash = "c67c9d7597c76525ca68dd3cfd5741cee81c12e4beb9cab06db9f5e83a6c93a3870383866cbe4b38ed15083c81cb763b0a38a11de8f0cd3c4690290a9679b7de"
 
 [update]
-[update.curseforge]
-file-id = 5618613
-project-id = 1058391
+[update.modrinth]
+mod-id = "g4AhyGgi"
+version = "xMWTWdql"

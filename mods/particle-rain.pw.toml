@@ -3,11 +3,11 @@ filename = "particle-rain-2.1.4.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "01e6073cef18701100523e437ba0a881fccfb459"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/nrikgvxm/versions/LJMP1DZf/particle-rain-2.1.4.jar"
+hash-format = "sha512"
+hash = "bd403f670ad13186f09a0e728bb4e0126caf6a7bacaf7c7c9b0815e7e982f342e143bd8ffffa9dc3dcc7d5ef58f093ed60271896be9624c5952380376d956a23"
 
 [update]
-[update.curseforge]
-file-id = 5624791
-project-id = 421897
+[update.modrinth]
+mod-id = "nrikgvxm"
+version = "LJMP1DZf"

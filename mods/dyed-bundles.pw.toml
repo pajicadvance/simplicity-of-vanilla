@@ -3,11 +3,11 @@ filename = "dyedbundles-1.0+1.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "be9284b1b757f426dda222ddaa59ce4281de05b3"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/TfSq0uCz/versions/8Xp4NMJb/dyedbundles-1.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "2f95feb7a4ea7c1e6740d1e5357f05f0657c91509cde6be051d5509c5d31c3cd23f4dc1d31db42f82dbe1ef979ad251db1aefb8fddc2009dbd49fb688c6724dc"
 
 [update]
-[update.curseforge]
-file-id = 5424498
-project-id = 1013796
+[update.modrinth]
+mod-id = "TfSq0uCz"
+version = "8Xp4NMJb"

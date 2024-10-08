@@ -3,11 +3,11 @@ filename = "MoreChiseledBookshelfVariants-1.6.1+1.21.1-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "92c8cab824a3a45ca5633f8e336a7b2b31cc722a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/vkun3O1z/versions/KHOztHdf/MoreChiseledBookshelfVariants-1.6.1%2B1.21.1-Fabric.jar"
+hash-format = "sha512"
+hash = "6cee194aec9e2082fd62088ddc18c58531398db35bccf421933675f3cda52ab0f26bdfce02994fa4eef772301414d69da708209c9398c9bd862da5f0ebf8648e"
 
 [update]
-[update.curseforge]
-file-id = 5681810
-project-id = 1058433
+[update.modrinth]
+mod-id = "vkun3O1z"
+version = "KHOztHdf"

@@ -3,11 +3,11 @@ filename = "fishnostuck-mc1.21-v1.0.3-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6f09bbdbf5f1ee026f08208669638702ace7e19e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/IjXg2Day/versions/8XEvPQTM/fishnostuck-mc1.21-v1.0.3-fabric.jar"
+hash-format = "sha512"
+hash = "39e08672b379fddced6e287f8d9aaaceb433834049e0c5c3f08b5d6e0c7f0b78c842776052e6ac02898b677fa9f115075fa2565368f43be2984d418290b7d0c1"
 
 [update]
-[update.curseforge]
-file-id = 5430224
-project-id = 907390
+[update.modrinth]
+mod-id = "IjXg2Day"
+version = "8XEvPQTM"

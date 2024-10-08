@@ -3,11 +3,11 @@ filename = "e4mc_minecraft-fabric-5.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e30026f55843361ea9ec49dc5c06b27bae2c5544"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/ul9OslWB/e4mc_minecraft-fabric-5.2.1.jar"
+hash-format = "sha512"
+hash = "8d2b458ee9e1dd8a57b990cbd6d8355f3e0df00797b0e3eaa5fe070030ea1e8ad92144c8ffb8a189271f7a6cd8d8eebe6b048c1f96d042bc83e8cf8d74589a86"
 
 [update]
-[update.curseforge]
-file-id = 5745588
-project-id = 849519
+[update.modrinth]
+mod-id = "qANg5Jrr"
+version = "ul9OslWB"

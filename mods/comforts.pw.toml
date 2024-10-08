@@ -1,13 +1,13 @@
-name = "Comforts (Fabric/Forge/Quilt)"
+name = "Comforts"
 filename = "comforts-fabric-9.0.2+1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7e985c02417b5d9fbde90415dc964149199c9d35"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/SaCpeal4/versions/JRpmvL81/comforts-fabric-9.0.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "c8c575c5395bcf64cfaefa0f28f0ec6081b540cf4811d8a8fe07686226c8d3dd770f46ae81c709b4c9833910495bd061ca957dc357579f7ba6825520740caab8"
 
 [update]
-[update.curseforge]
-file-id = 5718734
-project-id = 276951
+[update.modrinth]
+mod-id = "SaCpeal4"
+version = "JRpmvL81"

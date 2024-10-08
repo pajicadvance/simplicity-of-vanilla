@@ -3,11 +3,11 @@ filename = "tectonic-fabric-1.21.1-2.4.1a.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "84be79a9bbcb80c0ddb9e34f71b0064bd2e6b204"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/lWDHr9jE/versions/mSYrCaov/tectonic-fabric-1.21.1-2.4.1a.jar"
+hash-format = "sha512"
+hash = "a9dda4eb1912a724e1eff64ca70be9f165f9743e936dc703c42ebe2ecb4cfd1a66a68c22aafef08a95c832ce9eccf7cf8368c6e455756f9a50575520dd48191b"
 
 [update]
-[update.curseforge]
-file-id = 5641278
-project-id = 686836
+[update.modrinth]
+mod-id = "lWDHr9jE"
+version = "mSYrCaov"

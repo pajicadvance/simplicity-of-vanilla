@@ -3,11 +3,11 @@ filename = "itemswapper-fabric-0.7.1-mc1.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b98d8dfbc8c01a3e7abca56a6b60bf8a3a5fe750"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/RPOSBQgq/versions/nBP49QnP/itemswapper-fabric-0.7.1-mc1.21.jar"
+hash-format = "sha512"
+hash = "6335be8373fbf88485703f9a7357e96bc843b2bc9539712c6c26d93412daf2ed59ef0ef42ffc4727b831ac40b6dc83e25ecf787618801855c75de2aaccdfe97c"
 
 [update]
-[update.curseforge]
-file-id = 5674985
-project-id = 694358
+[update.modrinth]
+mod-id = "RPOSBQgq"
+version = "nBP49QnP"

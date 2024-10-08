@@ -3,11 +3,11 @@ filename = "ObsidianUI-fabric-0.2.7+mc1.21.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "735d9faf5572b48fefd6b82736031af256194c9c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/E0L8mfJZ/versions/Yt9IWzuL/ObsidianUI-fabric-0.2.7%2Bmc1.21.jar"
+hash-format = "sha512"
+hash = "507640ee00317e98dce7dd26561ecf0986772af0314b3d2d6cf5ddf0309583bad7cc5118daf539371ede813178094032902e29ffefb6131ee19537668bb01de7"
 
 [update]
-[update.curseforge]
-file-id = 5475671
-project-id = 684718
+[update.modrinth]
+mod-id = "E0L8mfJZ"
+version = "Yt9IWzuL"

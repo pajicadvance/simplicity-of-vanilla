@@ -1,0 +1,13 @@
+name = "Blasting Raw Metal Blocks into Blocks"
+filename = "blastingraw-1.21.1-2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/URkDEaW4/versions/F7jHpYPa/blastingraw-1.21.1-2-fabric.jar"
+hash-format = "sha512"
+hash = "659ffdf8bd48624ae79c281b4323941890f3871f83d7dd12d658ef6723cc1e4a40a96d4b33cc0286eae1048be720de63c40935cda08fe44948c50517fc3e8551"
+
+[update]
+[update.modrinth]
+mod-id = "URkDEaW4"
+version = "F7jHpYPa"

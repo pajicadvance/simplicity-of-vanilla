@@ -3,11 +3,11 @@ filename = "baleofsugarcane-v1.0.1-fabric-1.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e3e6733cfa712702842216ae74952bb640ef21c5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/NLiB957M/versions/tPrcQmci/baleofsugarcane-v1.0.1-fabric-1.21.jar"
+hash-format = "sha512"
+hash = "18a9a34b40f5d8afa7342c210fdebeb5d745bb83a245a26890d23067fded65e024cb6e88a2dee27f485696dcf6b87d2d8ebe86aa1a210b749da285f885e8dbac"
 
 [update]
-[update.curseforge]
-file-id = 5477707
-project-id = 640275
+[update.modrinth]
+mod-id = "NLiB957M"
+version = "tPrcQmci"

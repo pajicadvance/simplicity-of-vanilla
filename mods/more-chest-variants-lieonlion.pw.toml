@@ -3,11 +3,11 @@ filename = "MoreChestVariants-1.5.6+1.21-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cd641e5a5c28fa37556d5476a1ef7e15c4ea5bf9"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/HKKqmr2p/versions/EiHVohhQ/MoreChestVariants-1.5.6%2B1.21-Fabric.jar"
+hash-format = "sha512"
+hash = "efc5fa143aa980134baf1bf30a1259a000a1084ecb56f6b41fc8ac1cb687183c2a9f1fed20021715cd7de253ece65f2e7abde07d0ee0baf1535b52b9d0d5e48b"
 
 [update]
-[update.curseforge]
-file-id = 5476664
-project-id = 858032
+[update.modrinth]
+mod-id = "HKKqmr2p"
+version = "EiHVohhQ"

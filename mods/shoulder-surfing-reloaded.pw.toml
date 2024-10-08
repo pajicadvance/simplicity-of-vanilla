@@ -3,11 +3,11 @@ filename = "ShoulderSurfing-Fabric-1.21.1-4.4.1.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "718e37bb2360a3f68ea744f7d3fb336428dead30"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/kepjj2sy/versions/XDRdKlvq/ShoulderSurfing-Fabric-1.21.1-4.4.1.jar"
+hash-format = "sha512"
+hash = "f618934dc83af12b0ce81de9155d360fbe006d75eeafc9169f6cdb88d7cb009939541086b2fed60cd345dd27156055b035da2c8a39cc08be85dd31c3086bbdcf"
 
 [update]
-[update.curseforge]
-file-id = 5722036
-project-id = 243190
+[update.modrinth]
+mod-id = "kepjj2sy"
+version = "XDRdKlvq"
