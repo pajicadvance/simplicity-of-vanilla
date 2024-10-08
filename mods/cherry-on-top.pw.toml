@@ -1,13 +1,13 @@
 name = "Cherry On Top"
-filename = "cherry-on-top-0.8.0+1.21.1.jar"
+filename = "cherry-on-top-1.0.2+1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "aa0f74ada75b85ffb9717db59c41fe56c4cd8bba"
+hash = "afe1eda94d23d9e7ddc1b1e6f53c078d23eb1421"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5701158
+file-id = 5759383
 project-id = 1077812

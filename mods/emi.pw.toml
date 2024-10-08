@@ -1,13 +1,13 @@
 name = "EMI"
-filename = "emi-1.1.13+1.21.1+fabric.jar"
+filename = "emi-1.1.16+1.21.1+fabric.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "c515150f36a42517872a6233e475f49515677554"
+hash = "caca1679a446a94428eaedb596b4af5844c4d8ea"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5704403
+file-id = 5793015
 project-id = 580555

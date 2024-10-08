@@ -9,7 +9,7 @@
   "stewMaxStackSize": 64,
   "enableStackableEnchantedBooks": true,
   "enchantedBookMaxStackSize": 64,
-  "enableStackableHorseArmor": true,
+  "enableStackableHorseArmor": false,
   "horseArmorMaxStackSize": 64,
   "enableStackableMusicDiscs": true,
   "musicDiscMaxStackSize": 64,

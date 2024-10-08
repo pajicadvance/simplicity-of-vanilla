@@ -17,5 +17,6 @@
   "hideModernFix": true,
   "hideJourneyMap": true,
   "hideLambDynamicLights": true,
-  "hideDynamicFps": true
+  "hideDynamicFps": true,
+  "hideCaveDust": true
 }

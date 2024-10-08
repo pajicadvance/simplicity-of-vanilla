@@ -1,0 +1,13 @@
+name = "Ping Wheel"
+filename = "Ping-Wheel-1.9.2-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "adfb319bd62c63a9183d647499badb2b928be258"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5624177
+project-id = 734339

@@ -1,4 +1,3 @@
-version:3955
 toggleCrawl:false
 fullscreenMode:0
 preferredFullscreenMode:1

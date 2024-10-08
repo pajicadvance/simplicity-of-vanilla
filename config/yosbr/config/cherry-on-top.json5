@@ -24,6 +24,7 @@
 	"infoOverlays": {
 		"enableCompassOverlay": true,
 		"enableClockOverlay": true,
+		"hideIfEmiOpen": false,
 		"textBackground": true,
 		"textBackgroundOpacity": 0.3017857074737549,
 		"textShadow": false,

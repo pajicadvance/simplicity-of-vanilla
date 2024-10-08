@@ -1,0 +1,13 @@
+name = "Fog"
+filename = "Fog-fabric-1.4.1-1.21.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "a65841b0e8f006a0dbd312ec60811e69076c3673"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5710592
+project-id = 815438

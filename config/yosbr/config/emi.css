@@ -41,7 +41,7 @@
 	/**
 	 * Which action should be performed when clicking the recipe book.
 	 */
-	recipe-book-action: toggle-visibility;
+	recipe-book-action: toggle-craftables;
 
 	/**
 	 * Where to display status effects in the inventory.
@@ -152,7 +152,7 @@
 	/**
 	 * The pages in the left sidebar
 	 */
-	left-sidebar-pages: craftables;
+	left-sidebar-pages: none;
 
 	/**
 	 * The subpanels in the left sidebar
@@ -187,12 +187,12 @@
 	/**
 	 * The pages in the right sidebar
 	 */
-	right-sidebar-pages: index;
+	right-sidebar-pages: index, craftables;
 
 	/**
 	 * The subpanels in the right sidebar
 	 */
-	right-sidebar-subpanels: none;
+	right-sidebar-subpanels: craft-history 3;
 
 	/**
 	 * How many columns and rows of ingredients to limit the right sidebar to
@@ -222,7 +222,7 @@
 	/**
 	 * The pages in the top sidebar
 	 */
-	top-sidebar-pages: craft-history;
+	top-sidebar-pages: none;
 
 	/**
 	 * The subpanels in the top sidebar
