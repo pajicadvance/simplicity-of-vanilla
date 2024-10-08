@@ -1,3 +1,4 @@
+version:3955
 toggleCrawl:false
 fullscreenMode:0
 preferredFullscreenMode:1
@@ -50,7 +51,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","presencefootsteps:default_sound_pack","itemswapper:default","file/Default-Dark-Mode-1.20.2+-2024.6.0.zip","file/Default-Dark-SoV-Compat.zip","file/VanillaTweaks_SoV.zip"]
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","presencefootsteps:default_sound_pack","itemswapper:default","file/VanillaTweaks_SoV.zip","file/Default-Dark-Mode-1.20.2+-2024.6.0.zip","file/Default-Dark-SoV-Compat.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

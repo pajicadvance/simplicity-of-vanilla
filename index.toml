@@ -190,7 +190,7 @@ hash = "99b460f9bb05bb86ee58fb6710582d4de42d3e74f34e6397b3d5efdc1c10bca2"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d559dd9a70d0cd44a8ac0267000174a9fd238c3b20d0859a86c2565017493165"
+hash = "636d4f5d8819654aa8b787c87bf3dd87eacb5be24d7eb534b1b38070ae73d7c9"
 
 [[files]]
 file = "datapacks/SoV_custom_RS_config.zip"
@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-beekeeper-hut-fabric.pw.toml"
-hash = "eb8623ee918bb6cbf01da52f86e1f0c65a2be8dfd641ea2c7f0476795cb936c3"
+hash = "d7dc64c24a10eeeffdc696e2ebc355625a123f842b7150799fd73cf06e3f276f"
 metafile = true
 
 [[files]]
@@ -907,7 +907,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "35ac3d1ee26526a8c755a0c055a5e6593e5d9ce0139dd048c6b78ba0e6d9b072"
+hash = "664c4408771cbde4ac478d8bf21871e3410f64768e55b865dff7f7aa77b483da"
 metafile = true
 
 [[files]]
@@ -1076,7 +1076,7 @@ hash = "f268f58436456b9822692a795b865bb93c72aa052d1f3c9b69a6828d1c1d38df"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_SoV.zip"
-hash = "adee052713ade1c7e2c6e3c2c30ba7891f36381985b95fa91d2774d367401935"
+hash = "f415954f55965560129bf5bb88f30b2c4089a939bde17243fbd0ccf05e280371"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
@@ -1085,7 +1085,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "8a72dc1bff556553bc502e93fd133b2cfc736688c95e997d501803831f94ba22"
+hash = "e6996ecb68a6c690558f589e7194d7df23a186ab8b75f0f67cfed069a280470b"
 metafile = true
 
 [[files]]
