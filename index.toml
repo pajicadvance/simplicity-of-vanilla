@@ -101,6 +101,10 @@ file = "config/yosbr/config/jade/plugins.json"
 hash = "cd27f4a10b9a376ed2fac3a448f6b9b5fc67ebeccf7310051ea93f7798318c04"
 
 [[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "a7ebee10644a41eabb4c165b1dd23788c6e28912b26d095f5300b7bdbefa6c8c"
+
+[[files]]
 file = "config/yosbr/config/malilib.json"
 hash = "2cfc7db930781229d510c028bf3aec705df05fc5a56e0d443868030b380c937f"
 
@@ -159,14 +163,6 @@ hash = "15ca599088b6d651fbab79842ba642f28d53351ab300353de6013b744c5be580"
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
 hash = "7c253aebfc3b63cda2ba2bc69bc5f34a53a471372c2da7b089e19d34b84788b9"
-
-[[files]]
-file = "config/yosbr/config/sodiumdynamiclights-client.toml"
-hash = "447d4987122280f99f64a20b12c24be97d65cba431b57ea6fae9ce44765934a5"
-
-[[files]]
-file = "config/yosbr/config/sodiumextras-client.toml"
-hash = "173c435754e82dbdadef71d86c48603c757df1c735c2f4056cbcb47ce4101643"
 
 [[files]]
 file = "config/yosbr/config/spyglass-improvements/settings.json"
@@ -267,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "075385ee356a2b257ad6b7beeb88b5516fc53f80576d09b90e97ad1b78be933d"
+hash = "ecb1e63b15ddbaf45af311d4d97c5cea8338df18514e3369700f47ba599e8e16"
 metafile = true
 
 [[files]]
@@ -357,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherry-on-top.pw.toml"
-hash = "cf51308badd39e1b93de38caa7555839e3057abdd3cfaf1270869a6566a244a6"
+hash = "a36cce845a37e9c0be9917568c88e99dfd4c693ebad92bc91a4735635a10660a"
 metafile = true
 
 [[files]]
@@ -661,6 +657,11 @@ hash = "eda0ea554486d4793e1b1206304067ff6354f365305ecd6d6a11cedebeb542eb"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "38d15aa7d6c9c41f437ba00f5fe89b899fff4892ac6fe39c09e89677d8f3b075"
+metafile = true
+
+[[files]]
 file = "mods/leather-bundles-1.pw.toml"
 hash = "d549b7084cb69a773651ea78205a4ee935fa6ff86ebcf954e473d69a516959ad"
 metafile = true
@@ -862,7 +863,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "780301f909b1256c6d79ed499a627bf0460f8b7495165dc0c800b2ea098628d6"
+hash = "74c889c8b55ab42db6c9a0d990583c93bf90c8f4fab84b0b758e4d37e31d1f2e"
 metafile = true
 
 [[files]]
@@ -946,23 +947,8 @@ hash = "42ea1b1d6297b30e00d5f8af87e8c91cff84856ccf068b18bcbb8a47fe14f7f3"
 metafile = true
 
 [[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "e87d8c58a85bb768628009246ff457d0c3f3ade07bfc91454639d2c6699e994e"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "7797b3e10400ef30c32c5ecdc028a81a382a6a809f6166f9d11a6e1a3f4b5adb"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extras.pw.toml"
-hash = "0621d0812cf3896b8e2f06679ee36bf4cd10eaae5d0dcff4ce5124758e27a39e"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "350cae93025a258f3bc771bcb63a3b593d4b55663f0007aadd2e73a529dbe21a"
 metafile = true
 
 [[files]]

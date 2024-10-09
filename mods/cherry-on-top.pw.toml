@@ -1,13 +1,13 @@
 name = "Cherry On Top"
-filename = "cherry-on-top-1.0.2+1.21.1.jar"
+filename = "cherry-on-top-1.0.3+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GaqlHMUL/versions/o3ZLNb05/cherry-on-top-1.0.2%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/GaqlHMUL/versions/adDcT2Ss/cherry-on-top-1.0.3%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "eb3045e6a543735fb478866cbd3493df47bdb8b5db4a36e94837eed4551a33e0846a26f901ea086c742211fa3b56a1b8e2114c8ca1ced1764061402fa9c1ffcb"
+hash = "adb741aced348817b10514f969532f99405ebb2888520ea4c5fb201286e655f597ce2d089e01ecf79090c46effcd1d8ede5f53b8879a57fce5b29abe3cc06cb3"
 
 [update]
 [update.modrinth]
 mod-id = "GaqlHMUL"
-version = "o3ZLNb05"
+version = "adDcT2Ss"
