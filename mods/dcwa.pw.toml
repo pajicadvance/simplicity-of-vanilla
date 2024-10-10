@@ -1,6 +1,6 @@
 name = "Disable Custom Worlds Advice"
 filename = "DisableCustomWorldsAdvice-6.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/HdwRs3kc/versions/W0E7l3pF/DisableCustomWorldsAdvice-6.0.jar"
