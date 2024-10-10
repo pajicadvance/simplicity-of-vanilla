@@ -5,10 +5,6 @@ file = "LICENSE"
 hash = "975671e63ca414e0c8ed9f8bd2689f4601701411167378233812be6d4edb5e0a"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "6e891f320470dc386c531cd4fbac13b2a35162368919f8552e31eec3d4a69e36"
-
-[[files]]
 file = "config/global_data_and_resourcepacks.toml"
 hash = "f90bfd99629374fdeaa63aef21917d6907e0cc86cac6e886ccea30966c2bd69b"
 
@@ -408,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/dcwa.pw.toml"
-hash = "4ab83564a6e16a9b61b13b05e7f13d86ac05069a4b45b678eb0f3b6a66b460d0"
+hash = "a0102b0d129debc17d50d48ae089e7b961485510fcdd5fdf977387d6622f8064"
 metafile = true
 
 [[files]]
@@ -438,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "d88e8b3d5f8c8038a6b2046ca7f746a2e55d941eb083082eec23b2624942f255"
+hash = "ceb248c37ea0d486bc909edb4d86cfd7fe72bde893f9e0a9e1f584f3263db9dd"
 metafile = true
 
 [[files]]
