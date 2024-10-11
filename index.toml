@@ -17,6 +17,10 @@ file = "config/modpack-update-checker/config.json"
 hash = "fe290f534455a4e8c6b374e1ae0826429b2d294dd891584ad0aa2514b5e10bed"
 
 [[files]]
+file = "config/yosbr/config/accessories.json5"
+hash = "808a84b8f3e19a92442a325691edbf0f1ecbf3db4791da4139581a1271066d70"
+
+[[files]]
 file = "config/yosbr/config/badoptimizations.txt"
 hash = "0d885051d2325107e74d16cefc576a5f95e77de21fef89dd35ad5df390d9dc95"
 
@@ -195,6 +199,16 @@ hash = "86c3b9dacd387a7a9cfe6012c80f0c78f11cafcdb22d58345c64fd0ea38d6437"
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "f403213efeb5a017a4bebf63aca251fd606a7a8bdc23a8534a5a073ce1f9c2a1"
+metafile = true
+
+[[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "03113d0afb9ae7ad9d6cdaf49eef23538ae4ed2f4743ff0ed6d4662191fa7e80"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "7e052249ece42ca30ec098ef89b17eeb0a7441649568d43307c96fee85eef207"
 metafile = true
 
 [[files]]
@@ -519,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a0f68c2f7f4138a8abde7f8001fa92df3daa863490572b790ffd074a31903b02"
+hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
 metafile = true
 
 [[files]]
@@ -630,6 +644,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "cf0adf784f1a181299bc48c9b9048fba5980755365586592e73ffe46ae4915e5"
+metafile = true
+
+[[files]]
+file = "mods/immersive-lanterns.pw.toml"
+hash = "ee575b92b8a20d7d768fce760ad8efce7e4dad4b642ac66785d482ac0b565c23"
 metafile = true
 
 [[files]]
@@ -1008,8 +1027,8 @@ hash = "b84440454824836ee278fdf35ea70d6d58b5e133bd8ae4b3afdf1c82146d43b4"
 metafile = true
 
 [[files]]
-file = "mods/trinkets.pw.toml"
-hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+file = "mods/txnilib.pw.toml"
+hash = "9a5807529b3ee604a4640bc891eed0d4036a4b406df53e7b130006b5e8789255"
 metafile = true
 
 [[files]]
