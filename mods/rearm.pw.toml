@@ -1,0 +1,13 @@
+name = "ReArm: Combat Overhaul"
+filename = "rearm-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NHzN2FGz/versions/ks9C1Yk4/rearm-1.0.1.jar"
+hash-format = "sha512"
+hash = "082dd0eb1716a95be0de7b9bc51ed0a97d8ed4fc0f35d9e0d1f3b572e002660865815a24204fdc1c482ab7bee69df226e9b499c70a09dfe30082dd581926a87a"
+
+[update]
+[update.modrinth]
+mod-id = "NHzN2FGz"
+version = "ks9C1Yk4"

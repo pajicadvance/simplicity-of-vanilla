@@ -33,7 +33,7 @@
 	},
 	"phantomSpawningRework": {
 		"enablePhantomSpawningRework": true,
-		"phantomSpawnStartHeight": 128,
+		"phantomSpawnStartHeight": 192,
 		"phantomSpawnFrequency": "30+rand(30)",
 		"repelPhantomsWithDefinedItems": true,
 		"phantomRepellentItems": [

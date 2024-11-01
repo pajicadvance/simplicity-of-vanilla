@@ -1,13 +1,13 @@
 name = "Fadeless"
-filename = "fadeless-fabric-1.1.1.jar"
+filename = "fadeless-2.0.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ncKjyGm3/versions/m4Onx9Cy/fadeless-fabric-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/ncKjyGm3/versions/fOYd9ihS/fadeless-2.0.1.jar"
 hash-format = "sha512"
-hash = "3696089190c3ba64cb2f18f1517ffdfaf9c8ca37a637f2303ea3091a111aea7f6f2e952c3118034e7080dd305261584c6992280ffe774189aca80a2c33683fc1"
+hash = "54195048220314563458e4941bfbf9b926b7c467a5190701507e3004ce1e5b158c3c7c4282694c96dc7a724b0871be15d9baac06fe41adefe6c7eea05c2a74e3"
 
 [update]
 [update.modrinth]
 mod-id = "ncKjyGm3"
-version = "m4Onx9Cy"
+version = "fOYd9ihS"
