@@ -115,7 +115,7 @@
 		],
 		"structureSpecificLoot": true,
 		"enchantmentStructureMap": [
-			"elytra_enchants:launch;3,elytra_enchants:skipping;1!minecraft:chests/end_city_treasure;10"
+			"elytra_enchants:launch;1,elytra_enchants:skipping;1,eleron:smokestack;1,eleron:cloudskipper;1!minecraft:chests/end_city_treasure;25"
 		],
 		"enchantmentLevelWeights": false,
 		"level1Weight": 16,

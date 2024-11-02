@@ -345,6 +345,11 @@ hash = "1ba7fcf69deeec5536f8c9e43ee4527a5871e9e5805c1801b855e5c00b25d05a"
 metafile = true
 
 [[files]]
+file = "mods/centered-crosshair.pw.toml"
+hash = "a67f5aabcc83e6f8af0ea1a775b6e25c96eee4acda5803de1fd986b268522976"
+metafile = true
+
+[[files]]
 file = "mods/chais-elytra-enchants.pw.toml"
 hash = "c36a93a6081b31c2bdb0b29643593c9cc0741ec58f362b537214f1b64489d4a5"
 metafile = true
@@ -472,6 +477,11 @@ metafile = true
 [[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "cc46728d8879ff5ab1e00f17bb63bacaf30ea2699bb692c0ca5e084572ae3e8e"
+metafile = true
+
+[[files]]
+file = "mods/eleron.pw.toml"
+hash = "31ed7b8d68906190b3c4df4a156a30dfd0c7f19367077ebdd56523d14f68e8a3"
 metafile = true
 
 [[files]]

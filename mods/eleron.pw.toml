@@ -1,0 +1,13 @@
+name = "Eleron"
+filename = "eleron-beta-0.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zSqjq7Lw/versions/i5c0vAOx/eleron-beta-0.1.2.jar"
+hash-format = "sha512"
+hash = "e83432e606f525ceff147f8034b4d8608ff074e12cc8da42907a71c508d12622e6308e5b7818acb9b48e4e9444972b18889df5998e13af16ff0550eee523f0fc"
+
+[update]
+[update.modrinth]
+mod-id = "zSqjq7Lw"
+version = "i5c0vAOx"
