@@ -46,7 +46,7 @@ hash = "9061c176b3c743bd9df502588b9f3248d8e7082bd7f1cb9b7a70834fbe879c17"
 
 [[files]]
 file = "config/yosbr/config/cherry-on-top.json5"
-hash = "9f15fcec6a8b372b4ecf3f8c71912eafd50f8ba12fac477c18baf30e0eddc7cc"
+hash = "d449cd36ea7fa1000e3b6c0ab4238cc9cc36b0d2804bf405ab620ee113cbc80b"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -194,11 +194,16 @@ hash = "99b460f9bb05bb86ee58fb6710582d4de42d3e74f34e6397b3d5efdc1c10bca2"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "636d4f5d8819654aa8b787c87bf3dd87eacb5be24d7eb534b1b38070ae73d7c9"
+hash = "810ff2a1103a416ece963eb2693ebcc6bf2c1babfe966427278e887f5a877652"
 
 [[files]]
 file = "datapacks/SoV_custom_RS_config.zip"
 hash = "fa15cda14182d5386dc9af13ec086fba586ebd00c5e233a7fb74c8dc03a0c037"
+
+[[files]]
+file = "datapacks/repurposed-structures-better-dungeons-compat.pw.toml"
+hash = "7eb564ad28701496eaa9c017a789dd937d2d1b08fb233b50e583c8335995ab6a"
+metafile = true
 
 [[files]]
 file = "meta.json"
