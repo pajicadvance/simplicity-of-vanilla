@@ -1,13 +1,13 @@
 name = "Toni's Immersive Lanterns"
-filename = "immersivelanterns-fabric-1.0.4-1.21.1.jar"
+filename = "immersivelanterns-fabric-1.0.5-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vskzdsyT/versions/hfpfMFdc/immersivelanterns-fabric-1.0.4-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/vskzdsyT/versions/XUFZGfcS/immersivelanterns-fabric-1.0.5-1.21.1.jar"
 hash-format = "sha512"
-hash = "5ff9ac691d0c6f3360bc949734527fa0cd6cfd05b1bdf1e6f094037050f8028e9af8d648e407ed755e13050c61c747f9f0459ad601be3e408c4a9003b9f56893"
+hash = "1fae9dc1d1c08ec72ad2a721fcb33f027db9650181973d137f61c7173a06b9aa24b2bd9db017b3c2ed40fe472dd6713b8568c9d85222aa684c6574a55e9835a7"
 
 [update]
 [update.modrinth]
 mod-id = "vskzdsyT"
-version = "hfpfMFdc"
+version = "XUFZGfcS"

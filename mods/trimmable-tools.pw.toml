@@ -1,13 +1,13 @@
 name = "Trimmable Tools"
-filename = "trimmable_tools-fabric-1.21-2.0.3.jar"
+filename = "trimmable_tools-fabric-1.21-2.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MJu3fF3K/versions/pwSMKTTi/trimmable_tools-fabric-1.21-2.0.3.jar"
+url = "https://cdn.modrinth.com/data/MJu3fF3K/versions/5ITGRDDt/trimmable_tools-fabric-1.21-2.0.4.jar"
 hash-format = "sha512"
-hash = "af9c59f7cbd5ad480ec664bb12ad6fde45b15c900e75b88bee8bcc8ebc720e9a0328f6d0dd46c71db1b0569c1ec67ba4616f2647100e1bfad359ea10f2a8dede"
+hash = "9e3e0ba5eb3f8e202c699a17e9c8410436420c8a8a59142a53c7a4465c616808b0f2cb9ea8fb803df54c82e2ea07104855c40c1ecf2ec719fba5e1b1309077f7"
 
 [update]
 [update.modrinth]
 mod-id = "MJu3fF3K"
-version = "pwSMKTTi"
+version = "5ITGRDDt"

@@ -1,13 +1,13 @@
 name = "Eleron"
-filename = "eleron-beta-0.1.2.jar"
+filename = "eleron-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zSqjq7Lw/versions/i5c0vAOx/eleron-beta-0.1.2.jar"
+url = "https://cdn.modrinth.com/data/zSqjq7Lw/versions/huF852XZ/eleron-1.0.0.jar"
 hash-format = "sha512"
-hash = "e83432e606f525ceff147f8034b4d8608ff074e12cc8da42907a71c508d12622e6308e5b7818acb9b48e4e9444972b18889df5998e13af16ff0550eee523f0fc"
+hash = "51d0a506463141e0003d6690dd1fa7002ac8a5eb9928c57cc89b81b9f388aae3c77da281192a3a2f74c45644e8e49fb97b5d55207dea2bcaf4a5fe2f3226f9dc"
 
 [update]
 [update.modrinth]
 mod-id = "zSqjq7Lw"
-version = "i5c0vAOx"
+version = "huF852XZ"

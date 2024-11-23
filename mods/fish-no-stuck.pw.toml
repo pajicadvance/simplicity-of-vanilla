@@ -1,13 +1,13 @@
 name = "Fish No Stuck"
-filename = "fishnostuck-mc1.21-v1.0.3-fabric.jar"
+filename = "fishnostuck-mc1.21.1-v1.0.4-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IjXg2Day/versions/8XEvPQTM/fishnostuck-mc1.21-v1.0.3-fabric.jar"
+url = "https://cdn.modrinth.com/data/IjXg2Day/versions/CRtdrdyO/fishnostuck-mc1.21.1-v1.0.4-fabric.jar"
 hash-format = "sha512"
-hash = "39e08672b379fddced6e287f8d9aaaceb433834049e0c5c3f08b5d6e0c7f0b78c842776052e6ac02898b677fa9f115075fa2565368f43be2984d418290b7d0c1"
+hash = "afdca834532f21f29429b7c65c9130e2fa060f5104c7af2fe61e82e79a63f2a9a501cdecdd815a59bb9662740ca156dfc6ec8f516976df1a97a5ac0164ac0a1b"
 
 [update]
 [update.modrinth]
 mod-id = "IjXg2Day"
-version = "8XEvPQTM"
+version = "CRtdrdyO"

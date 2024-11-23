@@ -1,0 +1,13 @@
+name = "Photography"
+filename = "Photography-1.0.4+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SlIBpCUd/versions/wtT340YN/Photography-1.0.4%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "2c943536e0e98af9d637783986cc796fb6775d28d7a5ff7b297bcc2bc45f88f1a885e13867f8eaa3be5b834d5024a89e65c4ebddf7f9288c4be37f1d00a7c18b"
+
+[update]
+[update.modrinth]
+mod-id = "SlIBpCUd"
+version = "wtT340YN"

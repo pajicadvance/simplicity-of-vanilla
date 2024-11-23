@@ -4,7 +4,7 @@
   "modpackName": "Simplicity of Vanilla",
   "modpackAuthor": "pajic",
   "modpackReleaseType": "stable",
-  "updateCheckerId": "https://raw.githubusercontent.com/pajicadvance/simplicity-of-vanilla/1.21.1-curseforge/",
+  "updateCheckerId": "https://raw.githubusercontent.com/pajicadvance/simplicity-of-vanilla/1.21.1-modrinth/",
   "advanced": {
     "addButton": false
   }
