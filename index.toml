@@ -194,7 +194,7 @@ hash = "99b460f9bb05bb86ee58fb6710582d4de42d3e74f34e6397b3d5efdc1c10bca2"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "be2683f8823ae87ed2cfd1269d26cb8fc198e5b251117407b54931f0b2140d79"
+hash = "585992970c747c083511b8bfb5a232371f17ea6d8f2f10740207bb21e1dea055"
 
 [[files]]
 file = "datapacks/SoV_custom_RS_config.zip"
@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "258d19f7a30f0fc833e49731146503e1e1cfdaec80ea5fa1ce9eb794b42d3152"
+hash = "bdd7d1d38603316ffb37e1dc4cb2cb7a68e3646fa6e66efcdc3b76432047e18d"
 metafile = true
 
 [[files]]
@@ -561,7 +561,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5a06bd63b8132c8653e225db9d72e5eab51de5e6b5a4afa499fd3da7be5592f9"
+hash = "c0bb895f2240522cc6f20afb9ef46293d9b689b8d46839364350e5b0682bac4b"
 metafile = true
 
 [[files]]
@@ -586,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "4cb8b6866adcdf034385db5c655ca7d5b89eefdee65711a6814dcaba45fc4639"
+hash = "f90d8861943cf1f0bede4e9db3b05fe399a21a945ac2df1c46960065be0d19f6"
 metafile = true
 
 [[files]]
@@ -631,7 +631,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "095caa260713aae3cb72d0c1e97a8e361896011bfe84870753c738bbce8bc32a"
+hash = "cdd849e77b02e9e44ed04cf6367c36b7212162d511ff1bfa4a9e75af324f1e0e"
 metafile = true
 
 [[files]]
@@ -701,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "a10649f91fe0d1f5cd96c14421ac53f84843dc7fd49c4f9dd5a20b1e80f5f6df"
+hash = "5d7ca3cf3520f73b6b40a04593dab2e57081c6fa23d03199ab11bd48db920f50"
 metafile = true
 
 [[files]]
@@ -776,7 +776,7 @@ metafile = true
 
 [[files]]
 file = "mods/modpack-update-checker.pw.toml"
-hash = "86ff8d3e798526440b1eed1ab9582cd08955a4a0d3c58699119ac1d2f4d7834f"
+hash = "3ab1e2eb1cac1a701e30c980f510a74a341385c9824ad6b8eae6810551f29851"
 metafile = true
 
 [[files]]
@@ -851,7 +851,7 @@ metafile = true
 
 [[files]]
 file = "mods/obsidianui.pw.toml"
-hash = "dda59416b56067789701b5fbbc53969c14e8c43dc8ffbc31d1c55668a535558d"
+hash = "3cce60b7d7bb63fa7964074693376aee924c092f49d7e49b96ebf6d4dcdb8efc"
 metafile = true
 
 [[files]]
@@ -976,7 +976,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "894a85020d5686ad32aa89bda4ad019823fc64b1656590ff449dee896a4ba0ae"
+hash = "581849313e01ea999da06db38af5782423e85ca0f54103cf34c4ff09fcd3a118"
 metafile = true
 
 [[files]]
@@ -1155,16 +1155,17 @@ hash = "5a719ef389f3637198db988bcef0cb3b444014b1eaa004505f869dae7d4a83fa"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Default-Dark-SoV-Compat.zip"
-hash = "f268f58436456b9822692a795b865bb93c72aa052d1f3c9b69a6828d1c1d38df"
-
-[[files]]
 file = "resourcepacks/VanillaTweaks_SoV.zip"
 hash = "f415954f55965560129bf5bb88f30b2c4089a939bde17243fbd0ccf05e280371"
 
 [[files]]
+file = "resourcepacks/default-dark-mode-sov-compat.pw.toml"
+hash = "34db82fce0be2a095ff80741d4409810cc863c5ae37312588ee4b1dc9c8458a5"
+metafile = true
+
+[[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "a0c5c76479ce9625eb80dcf1b08ac7cfac370c16bc3686a7a5e949234c06cb7e"
+hash = "f6061454884efd0938f9fcf21965a2bdc21720217d153af6cc4efa86f055c0aa"
 metafile = true
 
 [[files]]
