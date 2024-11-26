@@ -197,6 +197,10 @@ file = "config/yosbr/options.txt"
 hash = "585992970c747c083511b8bfb5a232371f17ea6d8f2f10740207bb21e1dea055"
 
 [[files]]
+file = "credits.txt"
+hash = "70724c7f50748e957fe806cd263e7aab7ab97a7ee692d3ea08bfe2e034116380"
+
+[[files]]
 file = "datapacks/SoV_custom_RS_config.zip"
 hash = "fa15cda14182d5386dc9af13ec086fba586ebd00c5e233a7fb74c8dc03a0c037"
 
