@@ -14,7 +14,7 @@ hash = "ac1194f6e2c8a72085ace894d0e8139caa5dd44d7cde0a48904023ba28a26d53"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "db2ccc2b1dd5fe51f034dd85443aab7d0da1de8ab84fe5f67f267a3fdda68a50"
+hash = "c107c3f956a90f51d4598375cb627c6401d2eb6d4de90a0c3dd1861db6700a83"
 
 [[files]]
 file = "config/yosbr/config/accessories.json5"
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "meta.json"
-hash = "325a4533c0a91472026e721761c7b5a5cb60e638a61fce60615034a5f9db168e"
+hash = "b16f50f961943f637dfbc2c80417464c622ab5ce5b1273346c6c8f018e5846ea"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "3aed30044ddce0ddc1b8bd23c5f8da11f784b6848a84a3bb04c9b394cd9d0182"
+hash = "ccde3290b7c187f1604334482954bbb6452509690caaeccc8dda0b08d7320a09"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "919ce332a474201cdeb91cae1af6e78c81f4bd5a56d91f615bccd310c14cf29e"
+hash = "ca0785e05add0c7e10f4c52f2f1f6aa87235497d94206710403b3556a03a7fc1"
 metafile = true
 
 [[files]]
@@ -540,7 +540,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "bb86568b5daae326e5fb8157a9d643ffd7398dde4b663cd2d8b1a922a72f2b9d"
+hash = "53961f9af9c645de525e0598f3f1c5cb0ebc81f98c6b17a479ccc1b9f851a593"
 metafile = true
 
 [[files]]
@@ -590,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "53497d68fdc0e96dea03f3fb3d916866f97bb6d11ad3834146cba11e52352322"
+hash = "df50b3a790c405aeb189190915110e6b8bac3fa67ac7a5a648318fcad110f22e"
 metafile = true
 
 [[files]]
@@ -605,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/fog.pw.toml"
-hash = "1b5b21da9e1e1801c2f650d72ff10d2d457efe74bf3276e83a39ad64509774cf"
+hash = "8c7dd23c3fa452101a7703adbab39799c53cc6bb1ccba541509b98da8ae326ce"
 metafile = true
 
 [[files]]
@@ -635,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "cdd849e77b02e9e44ed04cf6367c36b7212162d511ff1bfa4a9e75af324f1e0e"
+hash = "e76885945cd82a93ecb6839917ccbabd37597e16dbbd3e5336b56306bbf7ca3a"
 metafile = true
 
 [[files]]
@@ -700,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "9910e35d0841d4fc95f37139379bc49238d27453a4592640896ee2faf2a66d6a"
+hash = "186961a95857a86c409f92dbbd513f9ad260dc43f571c3353cd1ad19321bc152"
 metafile = true
 
 [[files]]
@@ -770,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d795ac4bc7321d5b9defa33eaba9e03b5fa38b8345d827417d9366913567cb67"
+hash = "85549a8527681f0a07ff2835345f022d7293460797da66bc5af1f948ca1e44b3"
 metafile = true
 
 [[files]]
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-barrel-variants.pw.toml"
-hash = "950ffb71aa6c0b64fce88f900f7a66ddc256b4010cacd08febbd5c6c1a5f26fb"
+hash = "50526031305631a3a0719b8ec538832bf6bbc5fb464ad1ed08a0bf31a4c7ad3a"
 metafile = true
 
 [[files]]
@@ -910,7 +910,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "8ebd5c672784e538bbf7c8889dd0fac123135ffcb2ca1b99d7fa5975bba8ee57"
+hash = "412f83a238684dadff7ab2cdfa3d8ea5638f9c0d552075364216bb7a3a2e2c14"
 metafile = true
 
 [[files]]
@@ -1005,7 +1005,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "b5fa54d30435d38adbbb1918f59a30836783f4cc5fdd55388b80006ceabf3afe"
+hash = "24c7818de226f7076c97d742a4c9b5e9bbf65a4e5bf3ff09d3f186e8e7103efd"
 metafile = true
 
 [[files]]
@@ -1184,3 +1184,7 @@ hash = "aae407e8ce105c5b51a1170c9ad4476616f635c1e7978b9d56e83947b50f58f2"
 [[files]]
 file = "versions/1.0.1/changelog.txt"
 hash = "814edb1fa4bfd81340f837ec0f02dfe422df7a0bdeeb78a976d7c06430feb168"
+
+[[files]]
+file = "versions/1.0.2/changelog.txt"
+hash = "0782c4dd42f0724492e29bfb670fb965e17aff630eccea8f49d1601e6ab29e34"

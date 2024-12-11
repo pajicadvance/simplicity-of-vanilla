@@ -1,12 +1,12 @@
 name = "Simplicity of Vanilla"
 author = "pajic"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7de2c39017961097a15f3bffbfcec305d4e2018ebccbd493f9fe0447b0623f14"
+hash = "5317809b9582cd9da048929d5725baba83d950fd2fce6ff898d9c9021ac827ab"
 
 [versions]
 fabric = "0.16.9"
