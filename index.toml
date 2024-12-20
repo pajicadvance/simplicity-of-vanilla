@@ -14,7 +14,11 @@ hash = "ac1194f6e2c8a72085ace894d0e8139caa5dd44d7cde0a48904023ba28a26d53"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "c107c3f956a90f51d4598375cb627c6401d2eb6d4de90a0c3dd1861db6700a83"
+hash = "466855823e732c71de2def6d26b8a31d64eb655cd53d59bbbf3bdd3f6032e622"
+
+[[files]]
+file = "config/particlerain.json5"
+hash = "b33bd4fb91a5c906df9b81e4739a8afb67d889e2852604b6449f1ca354429beb"
 
 [[files]]
 file = "config/yosbr/config/accessories.json5"
@@ -59,6 +63,10 @@ hash = "b9207f5988c1f23c2310d68595b0651969ce48838f93e9af9a0d781e1c9c7367"
 [[files]]
 file = "config/yosbr/config/clienttweaks-common.toml"
 hash = "2eb5ab145b464e94f8725511673f23fbf60bb4eb22d63f419f80b3c3704b262f"
+
+[[files]]
+file = "config/yosbr/config/disenchanter.json5"
+hash = "dd9ab35ab201c7248cfe9d32d8c08b9cff21a5c22892f29a0c43e452e0416ecd"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
@@ -127,10 +135,6 @@ hash = "5937187f5c3ad5f1a75a65d7f384a78d15a1a6d96d0667ea61bd103279122920"
 [[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "40691e76d43ed552ec5b71ec05304869bec313cf48a5c014007c2058660f2049"
-
-[[files]]
-file = "config/yosbr/config/particlerain.json5"
-hash = "b74de57f57eb930228a905c2da0580b2584881f821f3c902a39bd1904acd0bc5"
 
 [[files]]
 file = "config/yosbr/config/particular.json5"
@@ -211,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "meta.json"
-hash = "b16f50f961943f637dfbc2c80417464c622ab5ce5b1273346c6c8f018e5846ea"
+hash = "9dab09f3a83d86b1b53609022e13f2934b0249ab6e5791afcc7bc9df779725c2"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -225,12 +229,12 @@ metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "5a7a1c4a5c087b66a57edd1067ba0048b3f6edb3fa0fc1449ffaff8d09a1e81b"
+hash = "dac0763466d97d1e4e50e30dc9741502bb4c31cf96cd1a63436d7ea55ee639f6"
 metafile = true
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
-hash = "a994ae9f75079a5ab89396a91751ab2f03dde4dbe595eb3761e6fc3746fba1ce"
+hash = "6ca6baa75aa712f1274d3986300df1202ecbf90b4a3acb267d146f763ae7ed95"
 metafile = true
 
 [[files]]
@@ -295,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/basic-storage.pw.toml"
-hash = "8fe7fae0e1f18e267e67242cff803a2939cc6734d92343ba25ba4602d227500c"
+hash = "db8c7bc0225c590db5c58bfc7c235b714c77684aa07ced3baa37353adbaba238"
 metafile = true
 
 [[files]]
@@ -535,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "14e62b9300da0d8a8cf5a39bb2ceb9960e8522be3cd6e9f5851550ed3345473d"
+hash = "6e046a0ced37b978d8bf74aa48653822489348c2e65d33e40b93be55763c983f"
 metafile = true
 
 [[files]]
@@ -545,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "88787a7c6576d08c2b419449cbc4dd02b8775b5ba7143abc32dc7cbada781963"
+hash = "d41804aff0c09612645047b2e53bfd88a018deaa7e4ad17d6656dd67e0af2a83"
 metafile = true
 
 [[files]]
@@ -610,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "9b8d70fd10ae28731c232bc1328bf912d897b897b19ac72178ae31fdfe17c31b"
+hash = "f9d89c62265e675839395d925f4162e3e93fda837ed50fbe3832f4ae9c58bebb"
 metafile = true
 
 [[files]]
@@ -640,7 +644,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "0482f2072a1323a5421af02429c24f073f00b201e7907d90786c8da0a053a92d"
+hash = "29da2f809ff1287394c2a214f991227c5f0e9dd198f8969ab22c32fd56b3733b"
 metafile = true
 
 [[files]]
@@ -670,7 +674,7 @@ metafile = true
 
 [[files]]
 file = "mods/ichunutil.pw.toml"
-hash = "6b50f30e153beb7dc4877eacf9d13ad3f49c623df3138b6384ac88d7cb0c8482"
+hash = "9e43c1fc15bfb599cf558e116b0aba44f78f9b356d0d1792bdc6b37a18627670"
 metafile = true
 
 [[files]]
@@ -695,12 +699,12 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "47b3e04dd74c83e51208d563ea2acf693dbc96dfad2ede161c735bd789cc9030"
+hash = "29932eb4022985bae724865f279f9e12ee6d161d44cca30548315f81eefae076"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "186961a95857a86c409f92dbbd513f9ad260dc43f571c3353cd1ad19321bc152"
+hash = "9bbe7fa9a6213d85602b9fdd9861057945960ec98de08cf0deb5d9d90b3b136f"
 metafile = true
 
 [[files]]
@@ -825,7 +829,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "c0aa1b330284fc64e2e3aecb6f147f87c17a5d93706d732b4d18888d399959c4"
+hash = "9effcb75f0affe654bc06bf334447fe37b5f02fd9aa35f540e2dcc43a07abd99"
 metafile = true
 
 [[files]]
@@ -885,7 +889,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "fe034f5e5982c234744c3164464491d443ac4b5a9876d2416a64c778bb27e50b"
+hash = "37d56d94d58476e0faf628d7626d4df1d377a7826abd17d57a65128cfcb4de95"
 metafile = true
 
 [[files]]
@@ -910,7 +914,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "412f83a238684dadff7ab2cdfa3d8ea5638f9c0d552075364216bb7a3a2e2c14"
+hash = "09e56baee86b4a88e1abdb1dace3c5d94ad9eb3bdb06d4762fdf6a8e62ec0074"
 metafile = true
 
 [[files]]
@@ -920,7 +924,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "546986185368ec93dc68d65c0349b8c0028124c2f759497a1eb6e510d620b584"
+hash = "eedefcefb935f2f4526f0f63d3a702a1594e747c34ded51df71bd64e76340e96"
 metafile = true
 
 [[files]]
@@ -980,7 +984,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "581849313e01ea999da06db38af5782423e85ca0f54103cf34c4ff09fcd3a118"
+hash = "4cc8209fa6bcfc8fce0f298bfc164b74cd1cf26ca8a15d4c4ae2d229f1d6c493"
 metafile = true
 
 [[files]]
@@ -1005,7 +1009,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "24c7818de226f7076c97d742a4c9b5e9bbf65a4e5bf3ff09d3f186e8e7103efd"
+hash = "b82e3d69f134d7e925b55579f6bde47a7da1d9e57ad41f5959e27e3fbcb3827d"
 metafile = true
 
 [[files]]
@@ -1015,7 +1019,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "7be37b57d8c86d7e2bb63f525a1616c9f022ac59cc748d299b6dc3fc8351945e"
+hash = "36fe3c25801f84878c54fa93fa16ebef3ac8b4283e78be56ccc8f52d96f528a2"
 metafile = true
 
 [[files]]
@@ -1040,7 +1044,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "3105655e451d9a2d5cdd4f791cc6a8f20a4063da9bf5713eeaeb341ea702f8cf"
+hash = "cf2c07cb7d1637541d163948891a9b3df2aabf6d562e963ee33a99fbb9871e4d"
 metafile = true
 
 [[files]]
@@ -1188,3 +1192,7 @@ hash = "814edb1fa4bfd81340f837ec0f02dfe422df7a0bdeeb78a976d7c06430feb168"
 [[files]]
 file = "versions/1.0.2/changelog.txt"
 hash = "0782c4dd42f0724492e29bfb670fb965e17aff630eccea8f49d1601e6ab29e34"
+
+[[files]]
+file = "versions/1.0.3/changelog.txt"
+hash = "3d905eafd1a5fe2fd0c95b9a0d11343ff995b2bf274338434814f829e99d94c5"

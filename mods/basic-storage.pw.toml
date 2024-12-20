@@ -1,13 +1,13 @@
 name = "Basic Storage"
-filename = "basicstorage-1.0.2+1.21.jar"
+filename = "basicstorage-1.1.0+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NMOanmPo/versions/tm3GnE6x/basicstorage-1.0.2%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/NMOanmPo/versions/tFSl5rEj/basicstorage-1.1.0%2B1.21.jar"
 hash-format = "sha512"
-hash = "7b6eb43ae12286121380e4f60ee04a6bf625050f831ac103fdabef373d942849c2335288033803230c1e9ecddeb5eab4cb487c86afd5237b9de64f602c215566"
+hash = "ffa9566e866c0931729b5f6d6c823ee11e337df3f7ca1fed7aa42606bdceb5db509de20d1e570733b31dfd19202d3a7f54be0b4a5df192a6ca0d31d29d2f7043"
 
 [update]
 [update.modrinth]
 mod-id = "NMOanmPo"
-version = "tm3GnE6x"
+version = "tFSl5rEj"

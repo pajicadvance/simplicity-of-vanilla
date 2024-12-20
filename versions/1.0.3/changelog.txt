@@ -1,0 +1,3 @@
+- Fixed Disenchanter material costs not being as intended
+- Updated Particle Rain config for the latest update
+- Updated a bunch of mods to their latest versions
